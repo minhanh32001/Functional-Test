@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ee65e93-f348-4e00-bc39-757f6b1dff08" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HMDTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommonElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TC_SU_FT_20.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2gVT0rXhgowccbVGg1gHa0SQGov" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.GetElement.executor": "Run",
+    "Python.Setup.executor": "Run",
+    "Python.TC_SU_FT_01.executor": "Run",
+    "Python.TC_SU_FT_05.executor": "Run",
+    "Python.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Job/HMDTest/TestCases"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Job\HMDTest\TestCases" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ee65e93-f348-4e00-bc39-757f6b1dff08" name="Changes" comment="" />
+      <created>1715781526210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715781526210</updated>
+    </task>
+    <servers />
+  </component>
+</project>
