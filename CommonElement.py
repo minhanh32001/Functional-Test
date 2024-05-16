@@ -1,5 +1,8 @@
 from Setup import browser
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait as wdw
+from selenium.webdriver.support import expected_conditions as ec
+
 firstName = browser.find_element(By.XPATH, "//input[@name='firstname']")
 lastName = browser.find_element(By.XPATH, "//input[@name='lastname']")
 email = browser.find_element(By.XPATH, "//input[@name='email']")

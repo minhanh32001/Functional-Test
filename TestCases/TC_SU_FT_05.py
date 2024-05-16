@@ -7,7 +7,7 @@ logo_element.click()
 
 time.sleep(5)
 
-if (browser.title== "Sign in - Apple Account"):
+if (browser.title== "Terms of Use & Privacy Policy"):
     print ("pass")
 else:
     print("fail")

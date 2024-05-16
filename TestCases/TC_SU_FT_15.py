@@ -9,9 +9,9 @@ email.send_keys("nguyenthiennhan@gmail.com")
 password.send_keys("")
 toggle_checkbox(checkbox, True)
 sign_up_button.click()
-time.sleep(5)
 try:
-    error_popup = browser.find_element(By.XPATH, "//div[@title='error']")
+    wait = wdw(browser, 10)
+    error_popup = wait.until(ec.visibility_of_element_located((By.XPATH, "//div[@title='error']")))
     if (error_popup.text == "Bạn cần điền đầy đủ các trường để đăng ký"):
         print("pass")
     else:

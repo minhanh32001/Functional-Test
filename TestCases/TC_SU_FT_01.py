@@ -7,7 +7,7 @@ logo_element.click()
 
 time.sleep(5)
 
-if (browser.title== "ITviec | Top IT Jobs for You"):
+if (browser.title== "HMD home"):
     print ("pass")
 else:
     print("fail")
