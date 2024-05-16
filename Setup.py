@@ -11,7 +11,7 @@ firefox_options.set_preference('general.useragent.override', user_agent)
 
 browser = webdriver.Firefox(service=firefox_service, options= firefox_options)
 
-url = 'https://itviec.com/sign_up'
+url = 'https://hmd/sign_up'
 
 browser.get(url)
 browser.maximize_window()
